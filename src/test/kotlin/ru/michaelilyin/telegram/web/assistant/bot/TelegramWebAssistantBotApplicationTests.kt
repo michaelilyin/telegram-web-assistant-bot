@@ -1,4 +1,4 @@
-package ru.michaelilyin.telegramwebassistantbot
+package ru.michaelilyin.telegram.web.assistant.bot
 
 import org.junit.Test
 import org.junit.runner.RunWith
